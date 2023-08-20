@@ -22,13 +22,13 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am Andres Vasquez AKA Andy! Software Engineer, eternal student and passionate about technology.  <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/>
 </h3> 
 
-<p align="center"> <a href="https://twitter.com/misterandyv" target="blank"><img src="https://img.shields.io/twitter/follow/misterandyv?logo=twitter&style=for-the-badge" alt="misterandyv" /></a> </p>
+<p align="center"> <a href="https://twitter.com/AndyInBits" target="blank"><img src="https://img.shields.io/twitter/follow/AndyInBits?logo=twitter&style=for-the-badge" alt="AndyInBits" /></a> </p>
 
-<p align="center"> <a href="https://www.instagram.com/andresvz91/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="misterandyv" /></a>
+<p align="center"> <a href="https://www.instagram.com/andresvz91/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="AndyInBits" /></a>
 
-<p align="center"> <a href="https://www.facebook.com/misterandyv" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="misterandyv" /></a>
+<p align="center"> <a href="https://www.facebook.com/AndyInBits" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="AndyInBits" /></a>
 
-<p align="center"> <a href="https://www.linkedin.com/in/andresfelipevasquez/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="misterandyv" /></a>
+<p align="center"> <a href="https://www.linkedin.com/in/andresfelipevasquez/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="AndyInBits" /></a>
 
 <!-- - 🔭 I’m currently working on [Ventura TRAVEL GmbH](https://www.venturatravel.org/) -->
 
