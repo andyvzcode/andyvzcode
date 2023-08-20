@@ -15,11 +15,11 @@
 
 - 🌱 I’m currently learning **Golang, Data Science, Web Components and over and over about Python**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/genesis-guerrero/](https://www.linkedin.com/in/genesis-guerrero/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/andresfelipevasquez/](https://www.linkedin.com/in/andresfelipevasquez/)
 
 - 💬 Ask me about **javascript, react, python, software architecture**
 
-- 📫 How to reach me **via twitter @misterandyv**
+- 📫 How to reach me **via twitter @AndyInBits**
 
 - 📍 I’m based in Bogota 🇨🇴
 
