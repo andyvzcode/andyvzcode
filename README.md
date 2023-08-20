@@ -38,7 +38,7 @@
 
 - 💬 Ask me about **javascript, react, python, software architecture**
 
-- 📫 How to reach me **via twitter @misterandyv**
+- 📫 How to reach me **via twitter @AndyInBits**
 
 - 📍 I’m based in Bogota 🇨🇴
 
