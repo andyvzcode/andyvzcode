@@ -34,7 +34,7 @@
 
 - 🌱 I’m currently learning **Golang, Data Science, Web Components and over and over about Python**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/andresfelipevasquez/](https://www.linkedin.com/in/andresfelipevasquez/)
+- 👨‍💻 All of my projects are available at [[https://www.linkedin.com/in/andresfelipevasquez/](https://www.linkedin.com/in/andresfelipevasquez/)
 
 - 💬 Ask me about **javascript, react, python, software architecture**
 
