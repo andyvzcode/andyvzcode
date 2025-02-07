@@ -9,13 +9,14 @@
 </p>
 <p align="center">
   <img src="https://badges.pufler.dev/years/andyvzcode" alt="Active_Years"/>
-  <img src="https://badges.pufler.dev/commits/monthly/andyvzcode" alt="commits"/>
+  <img src="https://badges.pufler.dev/commits/daily/andyvzcode" alt="commits"/>
   <img src="https://img.shields.io/github/commit-activity/m/andyvzcode/andyvzcode" />
 </p>
 <p align="center">
   <img alt="Followers" src="https://img.shields.io/github/followers/andyvzcode?color=4C1&logo=github">
   <img alt="Profile_Update" src="https://img.shields.io/github/last-commit/andyvzcode/andyvzcode?label=Profile%20update&style=fflat-square">
   <img src="https://badges.pufler.dev/gists/andyvzcode" alt="andyvzcode"/>
+  <img src="https://badges.pufler.dev/repos/andyvzcode" />
 </p>
 
 <h3 align="center"> 
