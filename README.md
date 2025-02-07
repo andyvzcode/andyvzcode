@@ -66,7 +66,7 @@
 <center>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andyvzcode&show_icons=true&locale=en&layout=compact" alt="andresvz91" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andyvzcode&" alt="andyvzcode" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=andyvzcode&show_icons=true&locale=en" alt="andyvzcode" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=andyvzcode&show_icons=true&locale=en&theme=radical" alt="andyvzcode" /></p>
 </center>
 <center>
 <h3 align="center">Coffee time </h3>
